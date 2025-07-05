@@ -75,6 +75,7 @@ Step 2: Run the application
 ## Why I Built This
 This tool was built as part of the EncodersPro Internship Program by Byteshield to provide hands-on cybersecurity and Python development experience.
 It aims to help learners:
+
 -Understand common phishing URL patterns.
 -Practice using regular expressions for detection.
 -Learn how to work with public APIs like VirusTotal.
