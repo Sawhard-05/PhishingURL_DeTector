@@ -67,19 +67,19 @@ Step 1: Install dependencies
 Step 2: Run the application
 `python PhishingURL_DeTector.py`
 
--A GUI window will open.
--Enter a URL in the input field.
--Click "Check URL" to scan it.
--The result will show whether the URL is safe or suspicious.
+- A GUI window will open.
+- Enter a URL in the input field.
+- Click "Check URL" to scan it.
+- The result will show whether the URL is safe or suspicious.
 
 ## Why I Built This
 This tool was built as part of the EncodersPro Internship Program by Byteshield to provide hands-on cybersecurity and Python development experience.
 It aims to help learners:
 
--Understand common phishing URL patterns.
--Practice using regular expressions for detection.
--Learn how to work with public APIs like VirusTotal.
--Build a GUI-based tool using Python's tkinter module.
--Adopt safe coding practices like .env usage and version control hygiene.
+- Understand common phishing URL patterns.
+- Practice using regular expressions for detection.
+- Learn how to work with public APIs like VirusTotal.
+- Build a GUI-based tool using Python's tkinter module.
+- Adopt safe coding practices like .env usage and version control hygiene.
 
 
