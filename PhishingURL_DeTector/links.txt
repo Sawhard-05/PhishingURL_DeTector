@@ -1,0 +1,51 @@
+| URL                         | Description             |
+| --------------------------- | ----------------------- |
+| `https://www.google.com`    | Safe & common domain    |
+| `https://github.com`        | Developer platform      |
+| `https://www.microsoft.com` | Official Microsoft site |
+| `https://www.nytimes.com`   | News outlet             |
+| `https://www.amazon.in`     | E-commerce              |
+| `https://login.apple.com`   | Legit Apple subdomain   |
+
+
+| URL                                                 | Suspicious Element                         |
+| --------------------------------------------------- | ------------------------------------------ |
+| `http://192.168.1.1/login.php`                      | IP address instead of domain               |
+| `http://secure-login.paypa1.com`                    | Misspelled domain (1 instead of l)         |
+| `https://paypal.com.account.verify.ru/login`        | Nested phishing subdomain                  |
+| `http://bit.ly/3FakeURL`                            | Obfuscated shortener                       |
+| `https://update-banking-verification.com/login`     | Fake banking keyword                       |
+| `http://www.ebay.com-login.verification.ru/`        | Keyword stuffing                           |
+| `http://google.account.recovery.security-check.com` | Fake Google subdomain                      |
+| `http://user:pass@phishing.com/login`               | URL with embedded credentials `user:pass@` |
+
+
+REAL Phishing url
+
+www.dghjdgf.com/paypal.co.uk/cycgi-bin/webscrcmd=_home-customer&nav=1/loading.php
+
+
+serviciosbys.com/paypal.cgi.bin.get-into.herf.secure.dispatch35463256rzr321654641dsf654321874/href/h...
+
+
+mail.printakid.com/www.online.americanexpress.com/index.html
+
+
+
+
+smilesvoegol.servebbs.org/voegol.php
+
+premierpaymentprocessing.com/includes/boleto-2via-07-2012.php
+
+
+myxxxcollection.com/v1/js/jih321/bpd.com.do/do/l.popular.php
+
+
+super1000.info/docs
+
+
+
+
+phlebolog.com.ua/libraries/joomla/results.php
+
+
