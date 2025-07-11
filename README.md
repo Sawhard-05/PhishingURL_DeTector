@@ -52,7 +52,7 @@ This project uses the VirusTotal API, and for security reasons, the API key is s
 
 1. Create a `.env` file in the project root folder (same level as the `.py` file).
 2. Add this line:
-`VIRUSTOTAL_API_KEY=your_api_key_here`
+   `VT_API_KEY=your_api_key_here`
 3. Replace `your_api_key_here` with your actual API key from VirusTotal.
 
 > 🔗 You can get a free API key by signing up at:  
